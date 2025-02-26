@@ -25,3 +25,6 @@ hs_err_pid*
 .project
 .DS_Store
 /bin/
+
+#Idea files
+*/idea
